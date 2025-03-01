@@ -21,7 +21,7 @@ public class Main {
         var elements = new ArrayList<Integer>();
         int max = -1;
 
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < 3; i++) {
             int el = scanner.nextInt();
 
             if (el > max) {
